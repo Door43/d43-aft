@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[aft:home|Door43 (aft)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-aft|d43-aft repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-aft/archive/master.zip|d43-aft.zip]]
+
+**Recent Changes**
+{{changes>ns = aft}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/aft|Ethnologue data]]
+
